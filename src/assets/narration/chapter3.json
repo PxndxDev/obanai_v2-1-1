@@ -1,0 +1,204 @@
+{
+    "step1": {
+        "dialog1": [
+            "> *Vous toquez à une porte assez grande. Au bout de quelques secondes, vous entendez quelqu'un approcher et dire :*\n",
+            "> **Inconnu** — Qui est-ce ?\n",
+            "> <:ozaki:942041320812347422> — Je suis Ozaki, pourfendeuse de rang Kanoto, je viens au rapport. Je demanderai à ce qu'on me laisser parler à un pilier ou au maître si c'est possible s'il vous plait !\n",
+            "> **Inconnu** — Très bien, j'appelle quelqu'un qui pourra vous accueillir. *L'illustre inconnu s'éloigne. Au bout de quelques minutes, la porte s'ouvre.*\n",
+            "> <:Uzui_Tengen:943193208769368064> — Que voulez-vous ?\n",
+            "> <:ozaki:942041320812347422> — Eh bien, nous avons un rapport à rendre très important. C'est à dire que nous sommes venus à bout d'une Lune Démoniaque, et que nous apportons avec nous une personne très étrange qui semble avovir une arme de pourfendeur.\n",
+            "> <:Uzui_Tengen:943193208769368064> — Cela nécessite vraiment l'intervention du maître ??\n",
+            "> <:ozaki:942041320812347422> — Il serait préférable je pense.\n"
+        ],
+        "dialog2": [
+            "> <:Uzui_Tengen:943193208769368064> — Patientez ici. Je vais vous chercher du thé et réunir les autres !\n",
+            "> Après 1h30 d'attente, un groupe de plusieurs pourfendeurs se pointe vers la grande porte. Les un après les autres, ils rentrent. Il y a des femmes, des hommes, des petits, des grands... Mais ils ont tous une lame accroché à leur ceinture.\n",
+            "> Soudain, un dernier homme surgit, non de la porte, mais bien d'une estrade située en face de vous. Toutes les personnes présentes s'agenouillent, et par politesse vous faites de même.\n",
+            "> <:Kagaya:943195270114603078> — Bonjour mes enfants. Qu'est-ce qui vous ammène si tôt avant notre réunion semi-annuelle ?\n",
+            "> <:Uzui_Tengen:943193208769368064> — Bonjour maître. J'ammène ces 3 pourfendeurs et cet illustre imposteur (en parlant de vous). Je pense que le mieux reste de les écouter.\n",
+            "> <:Kagaya:943195270114603078> — Eh bien faites.\n"
+        ],
+        "dialog3": [
+            "> <:ozaki:942041320812347422> — Nous avons été envoyés en mission sur le mont Urusai pour éliminer un démon inconnu. Cependant, il s'agissait d'une Lune Démoniaque. La douxième.\n",
+            "> <:ozaki:942041320812347422> — La deuxième chose, c'est que nous ne connaissons pas cette quatrième personne, et il semble qu'elle ait un katana de pourfendeur. Je demande à ce qu'on examine son cas.\n",
+            "> <:Kagaya:943195270114603078> — Je vois, je vois. Vous pouvez disposer, je me charge de ce petit.\n",
+            "> Tandis que tous les pourfendeurs quittent la salle, le jeune homme étrange vous demande de le suivre. Vous le faites donc.\n",
+            "> La personne en question vous pose donc des questions, et vous décidez de tout lui résumer depuis le début. *Vous faites votre résumé de tout ce qu'il s'est passé.*\n"
+        ]
+    },
+    "step2": {
+        "dialog1": [
+            "> <:Kagaya:943195270114603078> — Mes chers enfants, je vous donne donc la responsabilité de la formation de ce jeune. Je retourne me reposer, ma maladie m'emporte. Tâchez de vous entendre.\n"
+        ]
+    },
+    "step3": {
+        "emojis": {
+            "beast": "<:Inosuke_Hashibira:943193205539745862>",
+            "flame": "<:Kyojuro_Rengoku:943572756879011901>",
+            "flower": "<:Kanao_Tsuyuri:943193205925609542>",
+            "insect": "<:Shinobu_Kocho:943193207649501254>",
+            "love": "<:Mitsuri_Kanroji:943193206475075624>",
+            "mist": "<:Muichiro_Tokito:943193206554771476>",
+            "rock": "<:Gyomei_Himejima:943193205090963516>",
+            "serpent": "<:Obanai_Iguro:943193206852550769>",
+            "sound": "<:Uzui_Tengen:943193208769368064>",
+            "sun": "<:Tanjiro_Kamado:943193208144429077>",
+            "thunder": "<:Zenitsu_Agatsuma:943193208991657984>",
+            "water": "<:Tomioka_Giyu:943193208530272336>",
+            "wind": "<:Sanemi_Shinazugawa:943193207490084964>"
+        },
+        "texts": [
+            {
+                "beast": "Je suis Inosuke Hashibira ! T'es mon successeur, c'est ça ? Je vois ! Parfait ! Tu dois savoir une chose. Je suis ton chef suprême ! Tu fais tout ce que je te dis tel un sbire !",
+                "flame": "Salut toi ! Tu es mon successeur, c'est bien cela ? Ravi de faire ta connaissance ! Je vais te donner un enseignement digne de ce nom !",
+                "flower": "Mmh... Tu es prêt ? Allons t'entraîner..",
+                "insect": "C'est un plaisir de te compter dans nos rangs. Tu m'as l'air bien frêle et faible... Je vais devoir changer tout cela. Viens avec moi !",
+                "love": "J'ai un successeuuuurrr ! C'est génial ! Je n'ai pas envie de te perdre.. Alors je vais te donner un entraînement ! Je ne te couchouterai pas hein, tu devras te battre !",
+                "mist": "Hum... Quel intérêt j'y gagne à t'entraîner ? Peu importe, ce sont les ordres du maître... Suis-moi..",
+                "rock": "Tu m'as l'air frêle. Tu vas subir un entraînement de guerrier et je ferai de toi une montagne de puissance ! Prêt à suer ?",
+                "serpent": "Ne crois pas que t'as gagné. Tu vas beaucooup souffrir, et je ne te faciliterai pas la tâche ! Tss..",
+                "sound": "Tu es désormais mon successeur ! Je ferai de toi un être flamboyant ! Je suis sûr que tu as un potentiel énorme !",
+                "sun": "Je te préviens, ça ne sera pas facile, et je ne te faciliterai pas les choses. Prépare-toi à en baver pour devenir un pourfendeur d'exception !",
+                "thunder": "M-moi ?? C'EST MOI QUE T'AS CHOISI ?? IAAAAAAAH !! Tu ne me fais pas peur de toute façon, je vais t'entraîner à la dure !!",
+                "water": "Je vais faire de toi un guerrier, un vrai. Je t'apprendrai à ne pas refaire les mêmes erreurs que moi.",
+                "wind": "Sale morveux, tu me fais perdre mon temps.. Ton potentiel me plait, tu vas devenir une machine à pourfendre !"
+            }
+        ]
+    },
+    "step4": {
+        "emojis": {
+            "beast": "<:Inosuke_Hashibira:943193205539745862>",
+            "flame": "<:Kyojuro_Rengoku:943572756879011901>",
+            "flower": "<:Kanao_Tsuyuri:943193205925609542>",
+            "insect": "<:Shinobu_Kocho:943193207649501254>",
+            "love": "<:Mitsuri_Kanroji:943193206475075624>",
+            "mist": "<:Muichiro_Tokito:943193206554771476>",
+            "rock": "<:Gyomei_Himejima:943193205090963516>",
+            "serpent": "<:Obanai_Iguro:943193206852550769>",
+            "sound": "<:Uzui_Tengen:943193208769368064>",
+            "sun": "<:Tanjiro_Kamado:943193208144429077>",
+            "thunder": "<:Zenitsu_Agatsuma:943193208991657984>",
+            "water": "<:Tomioka_Giyu:943193208530272336>",
+            "wind": "<:Sanemi_Shinazugawa:943193207490084964>"
+        },
+        "texts": [
+            {
+                "beast": "Qu'est-ce qui est important dans la vie ?? Avoir des muscles !! Alors on va travailler ta force !!",
+                "flame": "La force est primordiale pour être un bon pourfendeur. Allons la travailler !",
+                "flower": "Tu manques de force, allons aranger cela.. Viens t'entraîner.",
+                "insect": "Tu n'as pas une force physique très développée, on va aranger tout ça ! Je te laisse t'entraîner et je regarde.",
+                "love": "Mmh... Tu dois améliorer ta force physique ! Allons-y, je vais t'aider !",
+                "mist": "J'ai l'impression que tu manques de force physique... Ça te dirait de commencer par ça ? Ce n'est pas une question..",
+                "rock": "Comme je te l'ai dit, je vais faire de toi une montagne. Allons voir ce que t'as dans les bras !",
+                "serpent": "Tu n'es pas assez fort à mon goût. Il va falloir travailler ta force physique. Fais, et j'analyse.",
+                "sound": "Un être flamboyant se doit d'avoir des muscles flamboyants ! Allons travailler ta force physique.",
+                "sun": "Tu manques réellement de force. Il va falloir t'entraîner pour réussir à progresser, et tu vas suer jusqu'à l'os !",
+                "thunder": "Honnêtement... Tu n'es pas assez fort ! ET QUI VA ME PROTÉGER HEIN ?! Dépêche-toi de t'entraîner !!",
+                "water": "Fais moi des exercices de force. Ta force est ton atout direct lors d'un combat, alors tâche de l'améliorer.",
+                "wind": "Tu sais ce qui fait un pourfendeur puissant ? SA FORCE ! Alors dépêche-toi de t'y mettre ! À chaque pause, tu recommences !"
+            }
+        ]
+    },
+    "step5": {
+        "emojis": {
+            "beast": "<:Inosuke_Hashibira:943193205539745862>",
+            "flame": "<:Kyojuro_Rengoku:943572756879011901>",
+            "flower": "<:Kanao_Tsuyuri:943193205925609542>",
+            "insect": "<:Shinobu_Kocho:943193207649501254>",
+            "love": "<:Mitsuri_Kanroji:943193206475075624>",
+            "mist": "<:Muichiro_Tokito:943193206554771476>",
+            "rock": "<:Gyomei_Himejima:943193205090963516>",
+            "serpent": "<:Obanai_Iguro:943193206852550769>",
+            "sound": "<:Uzui_Tengen:943193208769368064>",
+            "sun": "<:Tanjiro_Kamado:943193208144429077>",
+            "thunder": "<:Zenitsu_Agatsuma:943193208991657984>",
+            "water": "<:Tomioka_Giyu:943193208530272336>",
+            "wind": "<:Sanemi_Shinazugawa:943193207490084964>"
+        },
+        "texts": [
+            {
+                "beast": "Qu'est-ce qui est important dans la vie ?? Être rapide !! Alors on va travailler ta vitesse !!",
+                "flame": "La rapidité est primordiale pour être un bon pourfendeur. Allons la travailler !",
+                "flower": "Tu manques de vitesse, allons aranger cela.. Viens t'entraîner.",
+                "insect": "Tu n'as pas une vitesse très développée, on va aranger tout ça ! Je te laisse t'entraîner et je regarde.",
+                "love": "Mmh... Tu dois améliorer ta vitesse ! Allons-y, je vais t'aider !",
+                "mist": "J'ai l'impression que tu manques de vitesse... Ça te dirait de faire ça ? Ce n'est pas une question..",
+                "rock": "Comme je te l'ai dit, je vais faire de toi une montagne. Allons voir ce que t'as dans les jambes !",
+                "serpent": "Tu n'es pas assez rapide à mon goût. Il va falloir travailler ta vitesse. Fais, et j'analyse.",
+                "sound": "Un être flamboyant se doit d'avoir une vitesse flamboyants ! Allons travailler ta rapidité.",
+                "sun": "Tu manques réellement de vitesse. Il va falloir t'entraîner pour réussir à progresser, et tu vas suer jusqu'à l'os !",
+                "thunder": "Honnêtement... Tu n'es pas assez rapide ! ET QUI VA ME PROTÉGER HEIN ?! Dépêche-toi de t'entraîner !!",
+                "water": "Fais moi des exercices de vitesse. Ta rapidité est ton atout direct lors d'un combat, alors tâche de l'améliorer.",
+                "wind": "Tu sais ce qui fait un pourfendeur puissant ? SA VITESSE ! Alors dépêche-toi de t'y mettre ! À chaque pause, tu recommences !"
+            }
+        ]
+    },
+    "step6": {
+        "emojis": {
+            "beast": "<:Inosuke_Hashibira:943193205539745862>",
+            "flame": "<:Kyojuro_Rengoku:943572756879011901>",
+            "flower": "<:Kanao_Tsuyuri:943193205925609542>",
+            "insect": "<:Shinobu_Kocho:943193207649501254>",
+            "love": "<:Mitsuri_Kanroji:943193206475075624>",
+            "mist": "<:Muichiro_Tokito:943193206554771476>",
+            "rock": "<:Gyomei_Himejima:943193205090963516>",
+            "serpent": "<:Obanai_Iguro:943193206852550769>",
+            "sound": "<:Uzui_Tengen:943193208769368064>",
+            "sun": "<:Tanjiro_Kamado:943193208144429077>",
+            "thunder": "<:Zenitsu_Agatsuma:943193208991657984>",
+            "water": "<:Tomioka_Giyu:943193208530272336>",
+            "wind": "<:Sanemi_Shinazugawa:943193207490084964>"
+        },
+        "texts": [
+            {
+                "beast": "Qu'est-ce qui est important dans la vie ?? Avoir de l'endurance !! Alors on va travailler ton endurance !!",
+                "flame": "L'endurance est primordiale pour être un bon pourfendeur. Allons la travailler !",
+                "flower": "Tu manques d'endurance, allons aranger cela.. Viens t'entraîner.",
+                "insect": "Tu n'as pas une endurance très développé, on va aranger tout ça ! Je te laisse t'entraîner et je regarde.",
+                "love": "Mmh... Tu dois améliorer ton endurance ! Allons-y, je vais t'aider !",
+                "mist": "J'ai l'impression que tu manques d'endurance... Ça te dirait de commencer par ça ? Ce n'est pas une question..",
+                "rock": "Comme je te l'ai dit, je vais faire de toi une montagne. Allons voir ce que t'as dans les poumons !",
+                "serpent": "Tu n'es pas assez endurant à mon goût. Il va falloir travailler ton endurance. Fais, et j'analyse.",
+                "sound": "Un être flamboyant se doit d'avoir une endurance flamboyante ! Allons travailler ton endurance.",
+                "sun": "Tu manques réellement d'endurance. Il va falloir t'entraîner pour réussir à progresser, et tu vas suer jusqu'à l'os !",
+                "thunder": "Honnêtement... Tu n'es pas assez endurant ! ET QUI VA ME PROTÉGER HEIN ?! Dépêche-toi de t'entraîner !!",
+                "water": "Fais moi des exercices d'endurance. Ton endurance est ton atout direct lors d'un combat, alors tâche de l'améliorer.",
+                "wind": "Tu sais ce qui fait un pourfendeur puissant ? SON ENDURANCE ! Alors dépêche-toi de t'y mettre ! À chaque pause, tu recommences !"
+            }
+        ]
+    },
+    "step7": {
+        "emojis": {
+            "beast": "<:Inosuke_Hashibira:943193205539745862>",
+            "flame": "<:Kyojuro_Rengoku:943572756879011901>",
+            "flower": "<:Kanao_Tsuyuri:943193205925609542>",
+            "insect": "<:Shinobu_Kocho:943193207649501254>",
+            "love": "<:Mitsuri_Kanroji:943193206475075624>",
+            "mist": "<:Muichiro_Tokito:943193206554771476>",
+            "rock": "<:Gyomei_Himejima:943193205090963516>",
+            "serpent": "<:Obanai_Iguro:943193206852550769>",
+            "sound": "<:Uzui_Tengen:943193208769368064>",
+            "sun": "<:Tanjiro_Kamado:943193208144429077>",
+            "thunder": "<:Zenitsu_Agatsuma:943193208991657984>",
+            "water": "<:Tomioka_Giyu:943193208530272336>",
+            "wind": "<:Sanemi_Shinazugawa:943193207490084964>"
+        },
+        "texts": [
+            {
+                "beast": "Qu'est-ce qui est important dans la vie ?? Être agile !! Alors on va travailler ton agilité !!",
+                "flame": "L'agilité est primordiale pour être un bon pourfendeur. Allons la travailler !",
+                "flower": "Tu manques d'agilité, allons aranger cela.. Viens t'entraîner.",
+                "insect": "Tu n'as pas une agilité très développé, on va aranger tout ça ! Je te laisse t'entraîner et je regarde.",
+                "love": "Mmh... Tu dois améliorer ton agilité ! Allons-y, je vais t'aider !",
+                "mist": "J'ai l'impression que tu manques d'agilité... Ça te dirait de commencer par ça ? Ce n'est pas une question..",
+                "rock": "Comme je te l'ai dit, je vais faire de toi une montagne. Allons voir ce que t'as dans les poumons !",
+                "serpent": "Tu n'es pas assez agile à mon goût. Il va falloir travailler ton agilité. Fais, et j'analyse.",
+                "sound": "Un être flamboyant se doit d'avoir une agilité flamboyante ! Allons travailler ton agilité.",
+                "sun": "Tu manques réellement d'agilité. Il va falloir t'entraîner pour réussir à progresser, et tu vas suer jusqu'à l'os !",
+                "thunder": "Honnêtement... Tu n'es pas assez agile ! ET QUI VA ME PROTÉGER HEIN ?! Dépêche-toi de t'entraîner !!",
+                "water": "Fais moi des exercices d'agilité. Ton agilité est ton atout direct lors d'un combat, alors tâche de l'améliorer.",
+                "wind": "Tu sais ce qui fait un pourfendeur puissant ? SON ENDURANCE ! Alors dépêche-toi de t'y mettre ! À chaque pause, tu recommences !"
+            }
+        ]
+    }
+}

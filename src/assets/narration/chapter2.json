@@ -1,0 +1,63 @@
+{
+    "step1": {
+        "dialog1": [
+            "> Alors que vous venez de quitter le mont Sagiri après avoir affronté plusieurs démons, vous voilà dans le grand bain. Vous avez vu ce qu'était un démon, même si vous saviez de façon théorique comment en venir à bout grâce au livre de votre frère.\n",
+            "> Vous avez franchit le premier pas pour devenir pourfendeur, il en reste quelques milliers d'autres à passer !"
+        ],
+        "dialog2": [
+            "> Trève de bavardages. Vous reprenez donc route et vous avez atteint le mont Urusai. Depuis plusieurs heures, vous suivez ce qui semble être un sentier. Vous n'avez pas vraiment de direction fixe.\n",
+            "> Cependant, vous entendez des gens trottiner et chuchotter qui passent pas loin de vous. Vous vous jetez derrière un buisson afin de les observer. Surprise !\n",
+            "> Il s'agit là de pourfendeurs de démon. Ils n'ont pas l'air très gradé, leur uniforme est celle par défaut, et ils ne portent pas de haori par dessus. Ils sont 3, une escouade de 2 Mizunoto sans doute, accompagnés d'un Kanoto."
+        ],
+        "dialog3": [
+            "> Vous décidez alors de les suivre. Cependant, vous vous faites remarquer... Ils vous arrêtent et vous demande de partir, car l'endroit est habité par un démon très puissant. Vous décidez de les écouter. Néanmoins...\n",
+            "> Ils vous demandent pourquoi vous avez un katana de pourfendeur sur vous.\n",
+            "<:ozaki:942041320812347422> — Eh, deux minutes. Vous avez dans les mains quelque chose qui s'apparente être une lame du soleil, utilisée par les pourfendeurs de démons. D'ou ça sort ?\n",
+            "> 🤐 | **Mentir** : \"Je ne sais pas, je l'ai ramassé plus haut. Je ne savais pas qu'il vous appartenait.\"\n",
+            "> 😄 | **Dire la vérité** : \"Mon frère était pourfendeur et en est mort. J'ai décidé de reprendre le flambeau en prenant son sabre mais je ne sais pas m'en servir.\"\n"
+        ]
+    },
+    "step2": {
+        "dialog1": [
+            "> Vous voilà en train de suivre l'escouade de pourfendeurs. Lorsque soudain, une aura meurtrière raisonne dans l'air.\n",
+            "> Votre instinct et vos sens vous indiquent qu'il faut partir, loin d'ici. Un profond malaise vous envahit et vous restez dès à présent sur vos gardes.\n",
+            "> Quand soudain...\n",
+            "> *Une entité saute de l'arbre au dessus de vous et atterit sur le sol.*"
+        ],
+        "dialog2": [
+            "> *Le démon vous saute dessus et tente une attaque fulgurante au poing.*\n",
+            "> <:ozaki:942041320812347422> — **Souffle de l'eau, premier mouvement, Entaille de l'eau calme**. *Ozaki découpe le bras de son adversaire, mais celui-ci le récupère instantanément.*\n",
+            "> <:kamanue:942377117948190800> — Je trouve votre comportement méchant. Je me contentais simplement d'éliminer les autres gêneurs autour !\n",
+            "> <:ozaki:942041320812347422> — Tais-toi ! Qui es-tu d'abord ?\n",
+            "> <:kamanue:942377117948190800> — Kamanue, pour vous servir. Je suis membre des **12 Lunes Démoniaques**. *Kamanue montre son oeil*\n",
+            "> <:ozaki:942041320812347422> — Membre des 12 Lunes ou pas, ça ne change rien, on va te décapiter et ton histoire s'arrêtera ici !!!\n",
+            "> <:kamanue:942377117948190800> — Essayez donc. Je vous attend à bras ouverts !\n",
+            "> *L'adversaire effectue une puissante rafale de coups de poings dont l'onde de choc vous fait reculer de quelques mètres.*"
+        ]
+    },
+    "step3": {
+        "dialog1": [
+            "> Le cadavre du démon gît sur le sol, tandis que son corps commencent à se détruire à petit feu.\n",
+            "> <:kamanue:942377117948190800> — Vous n'avez pas le droit !!! Non, vous ne pouvez pas gagner !!!\n",
+            "> Kamanue essaie de se débattre, d'espérer et de penser qu'il a encore une chance. Finalement, sa tête finit elle-aussi par disparaitre. Cependant, ce n'en est pas fini de vous.\n",
+            "> <:ozaki:942041320812347422> — Qui es-tu ? Tu es un pourfendeur ? De quel rang ? Réponds-moi honnêtement cette fois.\n",
+            "> 🤐 | **Mentir** : \"Je suis un pourfendeur de haut rang, c'était une blague ! Je suis eux.. un Maître !\"\n",
+            "> 😄 | **Dire la vérité** : \"Comme je vous l'ai dit, je ne suis pas pourfendeur. Si je me retrouve ici à combattre cette chose, c'est juste à cause d'un concours de circonstances..\"\n"
+        ]
+    },
+    "step4": {
+        "dialog1": [
+            "> Vous marchez déjà depuis quelques jours, et une ambiance bizarre règne la nuit. Depuis que vous avez vaincu la 12ème Lune, aucun démon ne se pointe dans les environs.\n",
+            "> D'ailleurs, vous vous posez la question. C'est quoi une Lune Démoniaque ? Vous posez donc la question à Ozaki.\n",
+            "> **Vous** — Dites, qu'est-ce que c'est, une Lune Démoniaque ?\n",
+            "> <:ozaki:942041320812347422> — Les Lunes Démoniaques sont les 12 démons les plus proches de Kibutsuji Muzan. Plus un démon contient du sang de Muzan, plus il sera puissant. Les 12 Lunes sont les 12 démons ayant reçu le plus de sang.\n",
+            "> <:ozaki:942041320812347422> — Les 6 Lunes Supérieures n'ont pas été vaincues depuis des siècles, si on en croit les journaux tenus par les anciens pourfendeurs. Les Inférieures comme nous venons d'affronter sont tuées rarement.\n",
+            "> <:ozaki:942041320812347422> — Nous venons de vaincre la plus faible d'entre elles.\n"
+        ],
+        "dialog2": [
+            "> **Vous** — Les Lunes sont donc les démons les plus forts ?\n",
+            "> <:ozaki:942041320812347422> — C'est exact. Maintenant, nous arrivons. Cessez de parler et faites tout ce qu'on vous dira.\n",
+            "> *Vous arrivez vers une grande propriété assez mystérieuse.*\n"
+        ]
+    }
+}

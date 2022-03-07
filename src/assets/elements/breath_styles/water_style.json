@@ -1,0 +1,27 @@
+{
+    "name": "Souffle de l'Eau",
+    "teacher": {
+        "name": "Tomioka Giyu",
+        "img": "https://cdn.discordapp.com/attachments/935645629210820618/943557488618385418/Tomioka_Giyu.jpg",
+        "emoji": "<:Tomioka_Giyu:943193208530272336>",
+        "replique": "Je prendrai en charge ta formation si on me le demande. J'espère que t'es pas bavard."
+    },
+    "japaneseName": "水の呼吸",
+    "emoji": "🌊",
+    "movements": [
+        "Premier Mouvement : Entaille de l'Eau Calme",
+        "Deuxième Mouvement : La Roue d'Eau",
+        "Deuxième Mouvement : La Roue d'Eau - Variation horizontal",
+        "Troisième Mouvement : Danse des Courants",
+        "Quatrième Mouvement : La Marée Déferlante",
+        "Cinquième mouvement : Averse Providentielle",
+        "Sixième Mouvement : Tourbillon",
+        "Sixième et Troisième Mouvement Combinés : Tourbillon Dansant",
+        "Septième mouvement : Goutte de Rosée Troublant l'Eau Dormante",
+        "Septième mouvement : Goutte de Rosée Troublant l'Eau Dormante - En Crochet",
+        "Huitième mouvement : Impact de la Cascade",
+        "Neuvième Mouvement : Embruns des Flots Déchaînés",
+        "Dixième Mouvement : Les Vicissitudes de la Vie",
+        "Onzième mouvement : Accalmie"
+    ]
+}

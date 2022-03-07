@@ -1,0 +1,27 @@
+{
+    "name": "Souffle du Soleil",
+    "teacher": {
+        "name": "Tanjiro Kamado",
+        "img": "https://cdn.discordapp.com/attachments/935645629210820618/943557475821555763/Tanjiro_Kamado.jpg",
+        "emoji": "<:Tanjiro_Kamado:943193208144429077>",
+        "replique": "Si tu te sens prêt, rejoins moi, je te formerai au mieux."
+    },
+    "japaneseName": "日の呼吸",
+    "emoji": "🎴",
+    "movements": [
+        "Valse",
+        "Valse Foudroyante",
+        "Paradis Bleu",
+        "Miroir Brûlant Écarlate",
+        "Arc-en-Ciel Parhélique",
+        "Char Enflammé",
+        "Le Soleil qui Réduit les Os en Cendres",
+        "Estoc Brillant du Soleil",
+        "Chaleur Ondulante",
+        "Le Coucher de Soleil",
+        "Rai de Lumière",
+        "Halo Solaire Danse Draconique",
+        "Valse Enflammée",
+        "Treizième Mouvement"
+    ]
+}

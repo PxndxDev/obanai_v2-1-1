@@ -1,0 +1,12 @@
+{
+    "id": "shredding",
+    "name": "Paire d'épées - déchiquetage",
+    "description": "Deux épées qui sont taillées de sorte à ce qu'elles déchiquetent tout ce qu'elles touchent. Elles sont utilisées par Inosuke.",
+    "best_breath": {
+        "name": ["beast"],
+        "bonus": "+**0.25** 🛡️",
+        "boost": ["resistance", 0.25]
+    },
+    "bonus": "+**0.125** 💪 / +**0.125** 🤸",
+    "boost": [["strength", 0.125], ["agility", 0.125]]
+}

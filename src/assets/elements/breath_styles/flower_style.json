@@ -1,0 +1,18 @@
+{
+    "name": "Souffle de la Fleur",
+    "teacher": {
+        "name": "Kanao Tsuyuri",
+        "img": "https://cdn.discordapp.com/attachments/935645629210820618/943557473959301151/Kanao_Tsuyuri.jpg",
+        "emoji": "<:Kanao_Tsuyuri:943193205925609542>",
+        "replique": "..."
+    },
+    "japaneseName": "花の呼吸",
+    "emoji": "🌸",
+    "movements": [
+        "Deuxième Mouvement : Esprit du Prunier",
+        "Quatrième Mouvement : Hanagoromo Pourpre",
+        "Cinquième Mouvement : La Pivoine Futile",
+        "Sixième Mouvement : Tourbillon de Pêche",
+        "Mouvement Final : Les Yeux du Lycoris"
+    ]
+}

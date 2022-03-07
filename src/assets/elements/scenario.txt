@@ -1,0 +1,36 @@
+1. Arc Mont Sagiri
+-> Texte: le pourfendeur part dans le mont sagiri (en réalité il ne sait pas où aller)
+-> Démon 1 : SI A: Démon du Sanctuaire SINON B: Démon à la Langue
+-> Texte: le combat se termine tandis que le pourfendeur est au bord de la mort (épuisé), il tombe donc sur un vieillard qui l'héberge, et donc s'entraîne
+-> Exploration: Exo Rapidité + Exo Force
+-> Texte: après entraînement et repos, le pourfendeur repart
+-> Démon 2 : <>
+|==| Conclusion: le pourfendeur quitte le mont en ayant fait le tour et se dirige donc vers le mont Urusai
+
+2. Arc Mont Urusai
+-> Texte: en arrivant sur le mont, le pourfendeur trouve des pourfendeurs qui explorent, il est immédiatement questionné et ils partent à la chasse d'un démon très puissant
+-> Démon 1 (LUNE INFERIEURE NUMERO 12): Kamanue
+-> Texte: après combat, ils demandent donc à l'emmener au QG des pourfendeurs, mais s'arrêtent avant à la maison aux Glycines
+-> Entraînement: Exo Agilité x2 + Exo Force x2 + Exo Rapidité x2 + Exo Endurance x2
+|==| Conclusion: le pourfendeur est prêt à rejoindre l'armée des pourfendeurs et se dirige vers le QG où il va être jugé
+
+3. Arc QG des pourfendeurs de démons
+-> Texte: Arrivée au QG pour jugement
+-> Démon 2 (ENTRAÎNEMENT): <> 
+-> Texte: CHOIX du maître
+-> Texte: entraînement du pourfendeur + CHOIX du style de combat
+-> Entraîenement (INTENSIF): Exo Agilité x3 + Exo Force x3 + Exo Rapidité x3 + Exo Endurance x3
+-> Texte: suite à l'entaînement, évaluation de la force + inscription à la sélection finale
+|==| Conclusion: Le pourfendeur détermine son souffle et son style de combat (arme)
+
+4. Arc Selection Finale
+-> Texte: arrivée sur le mont fujikasane
+-> Démon 1 : <>
+-> Démon 2 : <>
+-> Texte: rencontre avec Seijo Hokori (pourfendeur)
+-> Démon 3 : <>
+-> Démon 4 : <>
+-> Texte: rencontre avec un pourfendeur blessé
+-> Démon 5 (BOSS) : Démon aux mains
+-> Texte: résultat + choix du tamahagane, retour au QG avec la victoire
+|==| Conclusion: Le pourfendeur intègre bien les rangs de l'armée en réussissant la sélection finale et rentre au QG

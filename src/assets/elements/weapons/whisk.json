@@ -1,0 +1,12 @@
+{
+    "id": "whisk",
+    "name": "Épée - fouet",
+    "description": "Une lame longue qui a la capacité de se tordre comme un fouet. Elle est utilisée par Mitsuri.",
+    "best_breath": {
+        "name": ["love"],
+        "bonus": "+**0.125** 🤸",
+        "boost": ["agility", 0.125]
+    },
+    "bonus": "+**0.125** 🤸 / +**0.125** 💪",
+    "boost": [["agility", 0.125], ["strength", 0.125]]
+}

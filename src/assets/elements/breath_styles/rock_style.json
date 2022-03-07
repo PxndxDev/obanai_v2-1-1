@@ -1,0 +1,18 @@
+{
+    "name": "Souffle de la Roche",
+    "teacher": {
+        "name": "Gyomei Himejima",
+        "img": "https://cdn.discordapp.com/attachments/935645629210820618/943557473074290688/Gy_mei_Himejima.jpg",
+        "emoji": "<:Gyomei_Himejima:943193205090963516>",
+        "replique": "Devient mon successeur, je te formerai au métier de pourfendeur dans les conditions les plus dures !"
+    },
+    "japaneseName": "岩の呼吸",
+    "emoji": "🧱",
+    "movements": [
+        "Premier Mouvement : Serpentinite - Tenaille Polarisée",
+        "Deuxième Mouvement : Fracasser la Voûte Céleste",
+        "Troisième Mouvement : Peau de Pierre",
+        "Quatrième Mouvement : Rhyolite - Conquête Rapide",
+        "Cinquième Mouvement : La Roue de Pierre de la Justice"
+    ]
+}

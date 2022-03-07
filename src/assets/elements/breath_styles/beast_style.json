@@ -1,0 +1,24 @@
+{
+    "name": "Souffle de la Bête",
+    "teacher": {
+        "name": "Inosuke Hashibira",
+        "img": "https://cdn.discordapp.com/attachments/935645629210820618/943557473292410940/Inosuke_Hashibira.jpg",
+        "emoji": "<:Inosuke_Hashibira:943193205539745862>",
+        "replique": "Arrrggg ! J'te préviens, avec moi ça sera pas de la tarte !"
+    },
+    "japaneseName": "獣の呼吸",
+    "emoji": "🐗",
+    "movements": [
+        "Premier Croc : Perforation",
+        "Deuxième Croc : Lacération",
+        "Troisième Croc : Déchiquetage",
+        "Quatrième Croc : Dilacération",
+        "Cinquième Croc : Mutilation furieuse",
+        "Sixième Croc : Morsure Irrégulière",
+        "Septième Croc : Détection",
+        "Huitième Croc : Charge du Sanglier",
+        "Neuvième Croc : Taillade Ondulante Divine",
+        "Dixième Croc : Les Crocs Tournoyants",
+        "La Frappe Lancée"
+    ]
+}

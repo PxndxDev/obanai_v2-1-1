@@ -1,0 +1,17 @@
+{
+    "name": "Souffle de l'Insecte",
+    "teacher": {
+        "name": "Shinobu Kocho",
+        "img": "https://cdn.discordapp.com/attachments/935645629210820618/943557475469246484/Shinobu_Kocho.jpg",
+        "emoji": "<:Shinobu_Kocho:943193207649501254>",
+        "replique": "Tu es mignon, si tu étais un démon je t'aurai tué avec un poison très doux !"
+    },
+    "japaneseName": "蟲の呼吸",
+    "emoji": "🦋",
+    "movements": [
+        "Danse des Papillons : Papillonnage",
+        "Danse de la Piqûre d'Abeille : Battement Véritable",
+        "Danse de la Libellule : Œil à Facettes Hexagonales",
+        "Danse du Myriapode : Zigzag Centipède"
+    ]
+}

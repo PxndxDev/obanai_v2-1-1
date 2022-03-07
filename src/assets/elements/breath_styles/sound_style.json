@@ -1,0 +1,16 @@
+{
+    "name": "Souffle du Son",
+    "teacher": {
+        "name": "Uzui Tengen",
+        "img": "https://cdn.discordapp.com/attachments/935645629210820618/943557488781975622/Uzui_Tengen.jpg",
+        "emoji": "<:Uzui_Tengen:943193208769368064>",
+        "replique": "Agenouille-toi devant ton dieu ! Suis-moi si tu veux devenir flamboyant !"
+    },
+    "japaneseName": "音の呼吸",
+    "emoji": "✨",
+    "movements": [
+        "Premier Mouvement : Tonnerre",
+        "Quatrième Mouvement : Le Glas Mortel d'Avici",
+        "Cinquième Mouvement : Symphonie Stridente"
+    ]
+}

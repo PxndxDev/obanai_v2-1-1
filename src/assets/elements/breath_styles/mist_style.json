@@ -1,0 +1,20 @@
+{
+    "name": "Souffle de la Brume",
+    "teacher": {
+        "name": "Muichiro Tokito",
+        "img": "https://cdn.discordapp.com/attachments/935645629210820618/943557474680705084/Muichiro_Tokito.jpg",
+        "emoji": "<:Muichiro_Tokito:943193206554771476>",
+        "replique": "*Il est marrant ce nuage, on dirait une courgette énervée..*"
+    },
+    "japaneseName": "霞の呼吸",
+    "emoji": "☁",
+    "movements": [
+        "Premier Mouvement : Nuages Bas et Brouillard Distant",
+        "Deuxième Mouvement : Brume Stratifiée",
+        "Troisième Mouvement : Explosion Désembuante",
+        "Quatrième Mouvement : Coup de Sabre Advectif",
+        "Cinquième Mouvement : Brume de Mer",
+        "Sixième Mouvement : Brume au Clair de Lune",
+        "Septième mouvement : Brouillard"
+    ]
+}

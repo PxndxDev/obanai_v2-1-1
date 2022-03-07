@@ -1,0 +1,12 @@
+{
+    "id": "katana",
+    "name": "Épée du soleil",
+    "description": "Une épée classique utilisée par la plupart des pourfendeurs.",
+    "best_breath": {
+        "name": ["flame", "flower", "mist", "sun", "thunder", "water", "wind"],
+        "bonus": "+**0.05** 💪",
+        "boost": ["strength", 0.05]
+    },
+    "bonus": "+**0.1** 💪 / +**0.1** ⚡ / +**0.1** ⏲️ / +**0.05** 🛡️",
+    "boost": [["strength", 0.1], ["speed", 0.1], ["endurance", 0.1], ["resistance", 0.05]]
+}

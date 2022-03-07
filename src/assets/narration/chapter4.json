@@ -1,0 +1,88 @@
+{
+    "step1": {
+        "dialog1": [
+            "> Après des mois d'entraînement auprès de votre maître, vous vous rendez finalement sur le Mont Fujikasane sur lequel se déroule l'épreuve de la Sélection Finale.\n",
+            "> L'épreuve de la sélection finale est une épreuve se déroulant sur 7 jours qui vise à devenir officiellement pourfendeur. Les participants sortant vivant de ce mont au bout de 7 jours deviendra officiellement pourfendeur.\n",
+            "> Vous n'avez pas beaucoup de temps, et vous vous lancez directement dans l'aventure.\n"
+        ]
+    },
+    "step2": {
+        "dialog1": [
+            "> Vous continuez d'avancer dans cette forêt sombre qui ne semble pas avoir de fin...\n"
+        ]
+    },
+    "step3": {
+        "dialog1": [
+            "> Voici deux jours déjà que vous êtes dans la forêt... Attention, derrière vous !\n"
+        ]
+    },
+    "step4": {
+        "dialog1": [
+            "> Les combats continuent, vous ne lâchez rien, les démons affluent !\n"
+        ]
+    },
+    "step5": {
+        "dialog1": [
+            "> Les jours deviennent long, et vous ne savez pas quand est-ce que cela va se terminer...\n"
+        ]
+    },
+    "step6": {
+        "dialog1": [
+            "> Raaah ! Que faire, vous êtes bientôt à bout de force...\n"
+        ]
+    },
+    "step7": {
+        "dialog1": [
+            "> Vous vous ennuyez, mais des démons arrivent encore en masse !\n"
+        ]
+    },
+    "step8": {
+        "dialog1": [
+            "> Vous vous approchez du but final, plus que deux jours ! Ne lâchez rien, des démons arrivent encore !\n"
+        ]
+    },
+    "step9": {
+        "dialog1": [
+            "> Le dernier démon se trouve devant vous ! Donnez tout ce que vous avez !\n"
+        ]
+    },
+    "step10": {
+        "dialog1": [
+            "> Quoi ? C'est quoi ce géant ? Il est immense... Vous n'avez même pas le temps de le regarder arriver qu'il vous fonce déjà dessus !\n"
+        ]
+    },
+    "step11": {
+        "emojis": {
+            "beast": "<:Inosuke_Hashibira:943193205539745862>",
+            "flame": "<:Kyojuro_Rengoku:943572756879011901>",
+            "flower": "<:Kanao_Tsuyuri:943193205925609542>",
+            "insect": "<:Shinobu_Kocho:943193207649501254>",
+            "love": "<:Mitsuri_Kanroji:943193206475075624>",
+            "mist": "<:Muichiro_Tokito:943193206554771476>",
+            "rock": "<:Gyomei_Himejima:943193205090963516>",
+            "serpent": "<:Obanai_Iguro:943193206852550769>",
+            "sound": "<:Uzui_Tengen:943193208769368064>",
+            "sun": "<:Tanjiro_Kamado:943193208144429077>",
+            "thunder": "<:Zenitsu_Agatsuma:943193208991657984>",
+            "water": "<:Tomioka_Giyu:943193208530272336>",
+            "wind": "<:Sanemi_Shinazugawa:943193207490084964>"
+        },
+        "texts": [
+            {
+                "beast": "Tu es formidable mec ! Tu es déjà de retour ? Tu les as tous écrasé !! Je t'adore !!",
+                "flame": "Tu es désormais digne de devenir un des plus grands pourfendeurs. Je compte sur toi pour prendre ma relève lorsque je partirai à la retraite !",
+                "flower": "Félicitations, continue comme ça. Tu progresses vite et c'est admirable.",
+                "insect": "Waw ! Je te félicite ! Tu es revenu sain et sauf ! Va prendre soin de toi et te reposer !",
+                "love": "Ouiiii ! Tu es de retour ! Honnêtement, je n'aurai pas pensé que tu reviendrais aussi vite. Bravo !",
+                "mist": "Bravo.. Tu veux une médaille ? Tu sais écraser des moucherons... Maintenant il va falloir écraser des dinosaures..",
+                "rock": "Mon entraînement a fait de toi une montagne de muscle. Tu me plais ! Continue de te perfectionner !",
+                "serpent": "Tu as plus de potentiel que tu en as l'air... Bravo. Continue de t'améliorer.",
+                "sound": "Ahah ! Voici mon pourfendeur flamboyant ! C'est un plaisir de te revoir en vie ! À vrai dire, je ne m'y attendais pas trop.. Mais maintenant, nous avons du temps pour nous entraîner !",
+                "sun": "Waaaaw ! Félicitations ! Tu as réussi, c'est incroyable ! Tu es sur la bonne voie pour progresser !",
+                "thunder": "MAIS T'ES SUPER FORT !! Tu as comme ordre de veiller sur moi !! Tu me protègeras hein ?! Continuons de t'entraîner !!",
+                "water": "Félicitations, ta marge de progression est remarquable. J'admire. Continuons de progresser pour que tu puisses prendre ma relève.",
+                "wind": "Petit effronté.. Tu es coriace. J'aime ça !! Ouais, je t'adore en fait mec, et tu vas devenir le plus fort de tous !!"
+            }
+        ]
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Souffle du Serpent",
+    "teacher": {
+        "name": "Obanai Iguro",
+        "img": "https://cdn.discordapp.com/attachments/935645629210820618/943557474898833438/Obanai_Iguro.jpg",
+        "emoji": "<:Obanai_Iguro:943193206852550769>",
+        "replique": "Tss.. Encore un pion inutile.."
+    },
+    "japaneseName": "蛇の呼吸",
+    "emoji": "🐍",
+    "movements": [
+        "Premier Mouvement : Frappe du Serpent Recroquevillé",
+        "Deuxième Mouvement : Le Crochet Empoisonné du Petit Serpent",
+        "Troisième Mouvement : Constriction",
+        "Quatrième Mouvement : Serpent Bicéphale",
+        "Cinquième Mouvement : Ondulations du Serpent"
+    ]
+}

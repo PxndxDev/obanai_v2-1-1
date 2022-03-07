@@ -1,0 +1,12 @@
+{
+    "id": "twins",
+    "name": "Épées jumelles",
+    "description": "Une paire de lames assez petites et larges reliées par une chaine, ressemblant à un nunchaku. Elles sont utilisées par Tengen.",
+    "best_breath": {
+        "name": ["sound"],
+        "bonus": "+**0.125** ⚡",
+        "boost": ["speed", 0.125]
+    },
+    "bonus": "+**0.125** ⚡ / +**0.25** ⏲️",
+    "boost": [["speed", 0.125], ["endurance", 0.25]]
+}

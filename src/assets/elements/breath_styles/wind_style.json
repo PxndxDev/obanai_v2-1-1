@@ -1,0 +1,22 @@
+{
+    "name": "Souffle du Vent",
+    "teacher": {
+        "name": "Sanemi Shinazugawa",
+        "img": "https://cdn.discordapp.com/attachments/935645629210820618/943557475213398037/Sanemi_Shinazugawa.jpg",
+        "emoji": "<:Sanemi_Shinazugawa:943193207490084964>",
+        "replique": "Quoi ?! Que cette chose devienne mon successeur ?! Ok, tu vas souffrir morveux !!"
+    },
+    "japaneseName": "風の呼吸",
+    "emoji": "🌪",
+    "movements": [
+        "Premier Mouvement : Tourbillon de Poussière - Tranche",
+        "Deuxième Mouvement : Griffes de Vent Purificatrices",
+        "Troisième Mouvement : Arbre Ondulant dans la Brise Montagnarde",
+        "Quatrième Mouvement : La Tempête de Poussière Levante",
+        "Cinquième Mouvemen t: Tempête Hivernale",
+        "Sixième Mouvement : La Rafale de Fumée Noire",
+        "Septième Mouvement : Vent Puissant - Bourrasque de Tengu",
+        "Huitième Mouvement : Frappe de la Première Bourrasque",
+        "Neuvième Mouvement : Typhon de Skanda"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "id": "poison",
+    "name": "Poison - épée à pointe",
+    "description": "Une épée dépourvue de tranchant, en forme de pointe qui contient du poison au bout. Elle est utilisée par Shinobu.",
+    "best_breath": {
+        "name": ["insect"],
+        "bonus": "+**0.125** 🤸",
+        "boost": ["agility", 0.125]
+    },
+    "bonus": "+**0.5** ⏲️",
+    "boost": [["endurance", 0.5]]
+}

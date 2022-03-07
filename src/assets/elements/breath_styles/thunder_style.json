@@ -1,0 +1,23 @@
+{
+    "name": "Souffle de la Foudre",
+    "teacher": {
+        "name": "Zenitsu Agatsuma",
+        "img": "https://cdn.discordapp.com/attachments/935645629210820618/943557488987492352/Zenitsu_Agatsuma.jpg",
+        "emoji": "<:Zenitsu_Agatsuma:943193208991657984>",
+        "replique": "Qui es-tu hein ? T'es un espion c'est ça ? Ne m'attaque pas !!"
+    },
+    "japaneseName": "雷の呼吸",
+    "emoji": "⚡",
+    "movements": [
+        "Premier Mouvement : Frappe Foudroyante",
+        "Premier Mouvement : Frappe Foudroyante - Six Coups",
+        "Premier Mouvement : Frappe Foudroyante - Huit Coups",
+        "Premier Mouvement : Frappe Foudroyante - Vitesse Divine",
+        "Deuxième Mouvement : Éclair Foudroyant",
+        "Troisième Mouvement : Nuée d'Éclairs",
+        "Quatrième Mouvement : Orage Lointain",
+        "Cinquième Mouvement : Éclair de Chaleur",
+        "Sixième Mouvement : Tonnerre et Foudre",
+        "Septième Mouvements : Dieu du Feu Céleste"
+    ]
+}

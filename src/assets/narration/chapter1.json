@@ -1,0 +1,87 @@
+{
+    "step1": {
+        "dialog1": [
+            "> Après avoir quitté la maison familiale, votre destination reste très floue. La lame de votre frère est lourde, vous n'avez jamais appris à en porter une, et encore moins en utiliser une.\n",
+            "> La solution la plus simple mais la plus longue, reste de prendre un chemin de façon aléatoire en partant de votre maison et d'espérer tomber sur les bonnes personnes.\n",
+            "> Un périple dangeureux s'annonce, et vous allez devoir apprendre à survivre.\n",
+            "> *Vous vous dirigez donc vers le mont Sagiri dont le pied est situé à quelques centaines de mètres...*"
+        ],
+        "dialog2": [
+            "> Vous arrivez donc au pied du mont Sagiri. Cependant, la route semble faire le tour, et non la traverser par le sommet. Les deux chemins semblent contenir des épopées différentes.\n",
+            "> Il est temps de se décider. La route que vous prendrez déterminera un bon nombre d'étapes que vous devrez franchir durant votre périple sur le monstre de roche qui se dresse devant vous.\n",
+            "> 🏔️ | D'un côté, un chemin étroit, qui semble vite prendre l'altitude. La route semble pavée, comme des traces d'une ancienne civilisation y ayant vécu.\n",
+            "> 🏞️ | De l'autre, le chemin semble pacifique. Le sentier ne prend pas trop d'altitude, cependant la clairière est assez exposée au soleil et peut vous causer du tord si vous y restez trop longtemps.\n"
+        ]
+    },
+    "step2": {
+        "dialog1": [
+            "> Vous voilà en train de marcher depuis plusieurs heures. Vous n'avez toujours pas changé de cap, votre objectif est toujours le même:\n",
+            "> Faire le tour de cette montagne pour se rapprocher de la ville. Vous vous sentez bien, votre corps arrive à suivre le rythme, on dirait même que vous êtes un sportif de haut-niveau adapté aux conditions difficiles !\n",
+            "> Votre lame semble encombrante car vous tenez cette dernière depuis votre départ. De plu... *bruits inquiétants.*\n",
+            "> *Des bruits de craquement se font ressentir. Derrière vous, un démon !*"
+        ],
+        "dialog2": [
+            "> Vous voilà engagé dans votre premier combat, plus vrai que vrai ! Cependant, vous ne vous vous êtes jamais battu et vous ne savez pas comment vous y prendre. Laissez moi vous donner les bases.\n",
+            "> Vous n'avez pas encore accès à la totalité du système de combat, car vous venez de commencer votre aventure. D'autres éléments prendront place plus tard dans votre aventure, pour l'instant, tout est très simple.\n"
+        ]
+    },
+    "step3": {
+        "dialog1": [
+            "> Votre épée traverse le cou du démon. Vous avez tout donné. Dès l'instant où les premières cellules du démon se désintègrent, vous sentez la douleur, jusque là ignorée par l'adrénaline, vous saisir dans tout votre corps.\n",
+            "> Vous vous écroulez sur le sol. Vous avez perdu toutes vos forces dans ce combat. Un entraînement aurait été préférable avant de telles actions ! Cependant, il y a un problème..."
+        ],
+        "dialog2": [
+            [
+                "> 🏔️ | La chaleur vous détruit à petit feu. Vous voilà allongé sur le sol, sans aide. Les pavés du santier vous donnent une position inconfortable, et la douleur est d'autant plus vive avec vos blessures.\n",
+                "> Comment vous sortir de cette situation ? C'est vrai que la situation est délicate. Finalement, vous finissez par vous évanouir...\n",
+                "> ... *Zzz* ...\n",
+                "> ... *Zzz* ... ... *Zzz* ...\n"
+            ],
+            [
+                "> 🏞️ | La chaleur vous détruit à petit feu. Vous voilà allongé sur le sol, sans aide. La clairière ne vous protège pas des rayons du soleil, et la douleur est d'autant plus vive avec vos blessures.\n",
+                "> Comment vous sortir de cette situation ? C'est vrai que la situation est délicate. Finalement, vous finissez par vous évanouir...\n",
+                "> ... *Zzz* ...\n",
+                "> ... *Zzz* ... ... *Zzz* ...\n"
+            ]
+        ],
+        "dialog3": [
+            "> Vous sentez que vous êtes secoué. Attendez, ce n'est pas qu'une sensation. Pendant que vous reprenez vos esprits, vous sentez une canne en bois vous agiter le torse. Il s'agit d'un vieillard qui vient de voler à votre secours, après vous avoir vu en train d'agoniser sur le sol.\n",
+            "> Après quelques minutes, vous avez repris vos esprits et vous avez laissé le vieillard vous escorter jusqu'à chez lui. Il décide de vous héberger pendant quelques temps, alors c'est le moment rêvé pour reprendre des forces et s'entraîner."
+        ]
+    },
+    "step4": {
+        "dialog1": [
+            [
+                "> 🏔️ | Après 2j à vous reposer et à vous remettre de vos blessures, vous décidez d'aller reprendre votre entraînement. La maison du vieillard se situe au milieu d'une forêt, et donc facilite vos entraînements pour l'agilité et l'endurance.\n",
+                "> C'est donc parti pour l'entraînement !"
+            ],
+            [
+                "> 🏞️ | Après 2j à vous reposer et à vous remettre de vos blessures, vous décidez d'aller reprendre votre entraînement. La maison du vieillard se situe au milieu d'une grande clairière, et donc cela facilite vos entraînements pour la force et la vitesse.\n",
+                "> C'est donc parti pour l'entraînement !"
+            ]
+        ],
+        "dialog2": [
+            [
+                "> Lorsque vous êtes prêts, réagissez ci-dessous pour lancer le premier entraînement, l'entraînement d'endurance. *(démarrage auto dans 60sec)*\n"
+            ],
+            [
+                "> Lorsque vous êtes prêts, réagissez ci-dessous pour lancer le second entraînement, l'entraînement d'agilité. *(démarrage auto dans 60sec)*\n"
+            ],
+            [
+                "> Lorsque vous êtes prêts, réagissez ci-dessous pour lancer le premier entraînement, l'entraînement de force. *(démarrage auto dans 60sec)*\n"
+            ],
+            [
+                "> Lorsque vous êtes prêts, réagissez ci-dessous pour lancer le second entraînement, l'entraînement de vitesse. *(démarrage auto dans 60sec)*\n"
+            ]
+        ],
+        "dialog3": [
+            "> Après avoir pris des forces, après vous être amélioré, vous repartez donc sur le mont Sagiri."
+        ]
+    },
+    "step5": {
+        "dialog1": [
+            "> Après de longs jours de marche, vous arrivez enfin de l'autre côté du mont Sagiri. Vous retrouvez le chemin qui prenait l'autre direction. Cependant, un mystérieux invité vous barre la route.\n",
+            "> C'est alors... Qu'il vous fonce droit dessus ! Ne vous laissez pas faire !\n"
+        ]
+    }
+}
