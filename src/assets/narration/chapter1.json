@@ -2,7 +2,7 @@
     "step1": {
         "dialog1": [
             "> Après avoir quitté la maison familiale, votre destination reste très floue. La lame de votre frère est lourde, vous n'avez jamais appris à en porter une, et encore moins en utiliser une.\n",
-            "> La solution la plus simple mais la plus longue, reste de prendre un chemin de façon aléatoire en partant de votre maison et d'espérer tomber sur les bonnes personnes.\n",
+            "> La solution la plus simple; mais la plus longue, reste de prendre un chemin de façon aléatoire en partant de votre maison et d'espérer tomber sur les bonnes personnes.\n",
             "> Un périple dangeureux s'annonce, et vous allez devoir apprendre à survivre.\n",
             "> *Vous vous dirigez donc vers le mont Sagiri dont le pied est situé à quelques centaines de mètres...*"
         ],
@@ -17,7 +17,7 @@
         "dialog1": [
             "> Vous voilà en train de marcher depuis plusieurs heures. Vous n'avez toujours pas changé de cap, votre objectif est toujours le même:\n",
             "> Faire le tour de cette montagne pour se rapprocher de la ville. Vous vous sentez bien, votre corps arrive à suivre le rythme, on dirait même que vous êtes un sportif de haut-niveau adapté aux conditions difficiles !\n",
-            "> Votre lame semble encombrante car vous tenez cette dernière depuis votre départ. De plu... *bruits inquiétants.*\n",
+            "> Votre lame semble encombrante car vous tenez cette dernière depuis votre départ. De plus... *bruits inquiétants.*\n",
             "> *Des bruits de craquement se font ressentir. Derrière vous, un démon !*"
         ],
         "dialog2": [
@@ -52,11 +52,11 @@
     "step4": {
         "dialog1": [
             [
-                "> 🏔️ | Après 2j à vous reposer et à vous remettre de vos blessures, vous décidez d'aller reprendre votre entraînement. La maison du vieillard se situe au milieu d'une forêt, et donc facilite vos entraînements pour l'agilité et l'endurance.\n",
+                "> 🏔️ | Après 2 jours à vous reposer et à vous remettre de vos blessures, vous décidez d'aller reprendre votre entraînement. La maison du vieillard se situe au milieu d'une forêt, et donc facilite vos entraînements pour l'agilité et l'endurance.\n",
                 "> C'est donc parti pour l'entraînement !"
             ],
             [
-                "> 🏞️ | Après 2j à vous reposer et à vous remettre de vos blessures, vous décidez d'aller reprendre votre entraînement. La maison du vieillard se situe au milieu d'une grande clairière, et donc cela facilite vos entraînements pour la force et la vitesse.\n",
+                "> 🏞️ | Après 2 jours à vous reposer et à vous remettre de vos blessures, vous décidez d'aller reprendre votre entraînement. La maison du vieillard se situe au milieu d'une grande clairière, et donc cela facilite vos entraînements pour la force et la vitesse.\n",
                 "> C'est donc parti pour l'entraînement !"
             ]
         ],
@@ -75,7 +75,7 @@
             ]
         ],
         "dialog3": [
-            "> Après avoir pris des forces, après vous être amélioré, vous repartez donc sur le mont Sagiri."
+            "> Après avoir repris des forces, après vous être amélioré, vous repartez sur le mont Sagiri."
         ]
     },
     "step5": {

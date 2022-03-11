@@ -22,7 +22,7 @@ const exe = async (client, message, args) => {
     let choiceSetence = "";
     let respToChoice = "";
     if (choice.choice.customId === "A") {
-        choiceSetence = "> **Vous** — Je suis un pourfendeur de haut rang, c'était une blague ! Je suis eux.. un Maître !\n",
+        choiceSetence = "> **Vous** — Je suis un pourfendeur de haut rang, c'était une blague ! Je suis... euh.. un Maître !\n",
         respToChoice += "<:ozaki:942041320812347422> — Vous mentez, usurpateur ! Je veuille à ce qu'on l'emmène avec nous au QG des pourfendeurs, nous en profiterons pour traiter son cas lors de mon rapport.\n";
     } else if (choice.choice.customId === "B") {
         choiceSetence = "> **Vous** — Comme je vous l'ai dit, je ne suis pas pourfendeur. Si je me retrouve ici à combattre cette chose, c'est juste à cause d'un concours de circonstances..\n";
@@ -31,11 +31,11 @@ const exe = async (client, message, args) => {
 
     if (await client.hasMsg(response.channel, response.id) !== false) await response.edit({ embeds: [
         new MessageEmbed().setColor(client.color).addField("L'ÉVEIL D'UN POUVOIR, partie 2", [
-            "> Le cadavre du démon gît sur le sol, tandis que son corps commencent à se détruire à petit feu.\n",
-            "> <:kamanue:942377117948190800> — Vous n'avez pas le droit !!! Non, vous ne pouvez pas gagner !!!\n",
+            "> Le cadavre du démon gît sur le sol, tandis que son corps commence à se détruire à petit feu.\n",
+            "> <:kamanue:942377117948190800> — Vous n'avez pas le droit ! Non, vous ne pouvez pas gagner !\n",
             "> Kamanue essaie de se débattre, d'espérer et de penser qu'il a encore une chance. Finalement, sa tête finit elle-aussi par disparaitre. Cependant, ce n'en est pas fini de vous.\n",
             "> <:ozaki:942041320812347422> — Qui es-tu ? Tu es un pourfendeur ? De quel rang ? Réponds-moi honnêtement cette fois.\n",
-        choiceSetence,
+            choiceSetence,
             respToChoice,
         ].join("\n")),
     ] });

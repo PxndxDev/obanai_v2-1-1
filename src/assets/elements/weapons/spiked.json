@@ -1,7 +1,7 @@
 {
     "id": "spiked",
     "name": "Fléau à pointes - hache",
-    "description": "Une arme formant un fléeau à pointes relié à une hache par une longue chaîne. Cette arme est utilisée par Gyomei.",
+    "description": "Une arme formant un fléau à pointes relié à une hache par une longue chaîne. Cette arme est utilisée par Gyomei.",
     "best_breath": {
         "name": ["rock"],
         "bonus": "+**0.125** 💪",

@@ -2,13 +2,13 @@
     "step1": {
         "dialog1": [
             "> Après des mois d'entraînement auprès de votre maître, vous vous rendez finalement sur le Mont Fujikasane sur lequel se déroule l'épreuve de la Sélection Finale.\n",
-            "> L'épreuve de la sélection finale est une épreuve se déroulant sur 7 jours qui vise à devenir officiellement pourfendeur. Les participants sortant vivant de ce mont au bout de 7 jours deviendra officiellement pourfendeur.\n",
+            "> L'épreuve de la sélection finale est une épreuve se déroulant sur 7 jours qui vise à devenir officiellement pourfendeur. Les participants sortants vivant de ce mont au bout de 7 jours deviendra officiellement pourfendeur.\n",
             "> Vous n'avez pas beaucoup de temps, et vous vous lancez directement dans l'aventure.\n"
         ]
     },
     "step2": {
         "dialog1": [
-            "> Vous continuez d'avancer dans cette forêt sombre qui ne semble pas avoir de fin...\n"
+            "> Vous continuez d'avancer dans cette forêt sombre qui semble ne pas avoir de fin...\n"
         ]
     },
     "step3": {
@@ -69,19 +69,19 @@
         },
         "texts": [
             {
-                "beast": "Tu es formidable mec ! Tu es déjà de retour ? Tu les as tous écrasé !! Je t'adore !!",
+                "beast": "Tu es formidable, mec ! Tu es déjà de retour ? Tu les as tous écrasé ! Je t'adore !",
                 "flame": "Tu es désormais digne de devenir un des plus grands pourfendeurs. Je compte sur toi pour prendre ma relève lorsque je partirai à la retraite !",
                 "flower": "Félicitations, continue comme ça. Tu progresses vite et c'est admirable.",
                 "insect": "Waw ! Je te félicite ! Tu es revenu sain et sauf ! Va prendre soin de toi et te reposer !",
-                "love": "Ouiiii ! Tu es de retour ! Honnêtement, je n'aurai pas pensé que tu reviendrais aussi vite. Bravo !",
-                "mist": "Bravo.. Tu veux une médaille ? Tu sais écraser des moucherons... Maintenant il va falloir écraser des dinosaures..",
+                "love": "Ouiiii ! Tu es de retour ! Honnêtement, je n'aurais pas pensé que tu reviendrais aussi vite. Bravo !",
+                "mist": "Bravo... Tu veux une médaille ? Tu sais écraser des moucherons... Maintenant il va falloir écraser des dinosaures.",
                 "rock": "Mon entraînement a fait de toi une montagne de muscle. Tu me plais ! Continue de te perfectionner !",
                 "serpent": "Tu as plus de potentiel que tu en as l'air... Bravo. Continue de t'améliorer.",
-                "sound": "Ahah ! Voici mon pourfendeur flamboyant ! C'est un plaisir de te revoir en vie ! À vrai dire, je ne m'y attendais pas trop.. Mais maintenant, nous avons du temps pour nous entraîner !",
+                "sound": "Ah ah ! Voici mon pourfendeur flamboyant ! C'est un plaisir de te revoir en vie ! À vrai dire, je ne m'y attendais pas trop... Mais maintenant, nous avons du temps pour nous entraîner !",
                 "sun": "Waaaaw ! Félicitations ! Tu as réussi, c'est incroyable ! Tu es sur la bonne voie pour progresser !",
-                "thunder": "MAIS T'ES SUPER FORT !! Tu as comme ordre de veiller sur moi !! Tu me protègeras hein ?! Continuons de t'entraîner !!",
+                "thunder": "MAIS T'ES SUPER FORT ! Tu as comme ordre de veiller sur moi ! Tu me protègeras hein ?! Continuons de t'entraîner !",
                 "water": "Félicitations, ta marge de progression est remarquable. J'admire. Continuons de progresser pour que tu puisses prendre ma relève.",
-                "wind": "Petit effronté.. Tu es coriace. J'aime ça !! Ouais, je t'adore en fait mec, et tu vas devenir le plus fort de tous !!"
+                "wind": "Petit effronté.. Tu es coriace. J'aime ça ! Ouais, je t'adore en fait, mec, et tu vas devenir le plus fort de tous !"
             }
         ]
     }

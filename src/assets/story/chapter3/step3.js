@@ -8,7 +8,7 @@ const fs = require("fs");
 
 const id = 3;
 const name = "Un style de combat";
-const intrigue = "Vous avez désormais un maître, mais une session d'entraînements intense commence.";
+const intrigue = "Vous avez désormais un maître, mais une session d'entraînement intense commence.";
 
 const exe = async (client, message, args) => {
     const s = new Step(client, message, args);
@@ -22,10 +22,10 @@ const exe = async (client, message, args) => {
     const d = require("../../narration/chapter3.json").step3.texts;
 
     await s.createDialogue(null, null, { title: "UN STYLE DE COMBAT, partie 1", content: [
-        "> Après de longues minutes de marche vous arrivez dans ce qui semble être un camp d'entraînement.\n",
+        "> Après de longues minutes de marche, vous arrivez dans ce qui semble être un camp d'entraînement.\n",
         `> ${e} — ${d[0][br]}\n`,
         `> ${e} — Premièrement, on va devoir déterminer ton style de combat. Nous allons procéder à plusieurs tests d'arme si une simple épée de pourfendeur ne te convient pas.\n`,
-        `> ${teacher} est parti cherché une panoplie d'arme, tandis que vous restez debout à attendre sans bouger que votre maître revienne. C'est après une dizaine de minute que vous revoyez sa silhouette approcher.\n`,
+        `> ${teacher} est parti cherché une panoplie d'arme, tandis que vous restez debout à attendre sans bouger que votre maître revienne. C'est après une dizaine de minutes que vous revoyez sa silhouette approcher.\n`,
     ] });
 
     await s.displayInformation("Les armes de pourfendeur", "Les pourfendeurs sont armés et parfois avec des armes plutôt originales. En effet, ces derniers peuvent prendre une arme plus adaptée au souffle qu'ils utilisent. C'est ce que vous allez faire maintenant ! **Pensez bien à regarder les avantages de chacune !**", "https://cdn.discordapp.com/attachments/935645629210820618/944957148373352468/img_giyu2.jpg");

@@ -8,14 +8,14 @@ const DemonBattle = require("../../../structures/classes/DemonBattle");
 const Body = require("../../../structures/classes/Body");
 
 const id = 7;
-const name = "Un repair de démons";
+const name = "Un repaire de démons";
 const intrigue = "Des avdersaires continuent d'affluer et vous voilà dans une mauvaise posture..";
 
 const exe = async (client, message, args) => {
     const s = new Step(client, message, args);
     const nar = require("../../narration/chapter4.json").step7;
 
-    await s.createDialogue(null, null, { title: "UN REPAIR DE DÉMONS, partie 1", content: nar.dialog1 });
+    await s.createDialogue(null, null, { title: "UN REPAIRE DE DÉMONS, partie 1", content: nar.dialog1 });
 
     let pDatas = await Players.get(client, message.author.id);
     const demon = demons_sauvages.get("Démon-Tigre")[1];

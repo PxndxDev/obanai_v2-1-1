@@ -5,7 +5,7 @@ const { saveProgression } = require("../../../structures/database/Progress");
 
 const name = "La lumière au bout du tunnel !";
 const id = 3;
-const intrigue = "Le combat était très serré. Vous criez victoire, néanmoins, ce n'est pas encore gagné..";
+const intrigue = "Le combat était très serré. Vous criez victoire, néanmoins, ce n'est pas encore gagné...";
 
 const exe = async (client, message, args) => {
     const s = new Step(client, message, args);
